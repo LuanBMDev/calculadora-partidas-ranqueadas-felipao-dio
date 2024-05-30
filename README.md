@@ -1,5 +1,5 @@
 
-# Desafio do Felipão - Calculadora de Partidas Ranqueadas
+# Desafio do Felipão - Calculadora de Partidas Rankeadas
 
 **O Que deve ser utilizado**
 
